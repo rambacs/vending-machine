@@ -8,7 +8,7 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://rambacs.github.io/",
+  "homepage": "https://rambacs.github.io/vending-machine",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
