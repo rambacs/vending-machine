@@ -127,7 +127,7 @@ export default function VendingMachineApp() {
 
   return (
     <div className="min-h-screen bg-gray-100 flex items-center justify-center p-6">
-      <div className="w-full max-w-[60rem] grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div className="w-full max-w-5xl grid grid-cols-1 md:grid-cols-3 gap-6">
         {/* Left: Machine UI */}
         <div className="col-span-2 bg-white rounded-2xl shadow p-6">
           <h1 className="text-2xl font-bold mb-2">Vending Machine — QA Exercise</h1>
